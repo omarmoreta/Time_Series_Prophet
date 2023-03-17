@@ -20,7 +20,7 @@ You’re a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/inv
 
 **Question:** Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 
-**Answer:** Yes, the Google search traffic increased by 3,000 compared to the averafe monthly search trend during the month of May 2020 due to MercadoLibre releasing their financial results.
+**Answer:** Yes, the Google search traffic increased by 3,008 or 8.5% compared to the average monthly search trend during the month of May 2020 due to MercadoLibre releasing their financial results.
 
 **Question:** Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 
